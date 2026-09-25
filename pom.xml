@@ -1,0 +1,5 @@
+<properties>
+  <sonar.projectKey>java-demo</sonar.projectKey>
+  <sonar.projectName>Java Demo Project</sonar.projectName>
+  <sonar.host.url>http://sonarqube:9000</sonar.host.url>
+</properties>
